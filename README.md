@@ -1,7 +1,7 @@
 # [WIP] WhatsAPI (Based on web.whatsapp)
 
 ## What is it?
-This package is used to provide a python interface for interacting with WhatsAPP Web to send and recieve Whatsapp messages.
+This package is used to provide a python interface for interacting with WhatsAPP Web to send and receive Whatsapp messages.
 
 
 ## Installation
